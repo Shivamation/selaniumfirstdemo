@@ -1,4 +1,5 @@
 # selaniumfirstdemo
 This is a first basic selenium code which contains-
-<bg>
+<br>
 how to open any weblink using webdriver.
+I am using fist tiime this VSCODE i.e. visual studio code.
